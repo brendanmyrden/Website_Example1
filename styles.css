@@ -9,13 +9,26 @@
     font-family: 'Bebas Neue', sans-serif;
 }
 
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    /* background: url('pics/red-background-water-droplets.jpg') no-repeat; */
+    /* background: url('pics/4-red-blood-cells-in-isotonic-solution-dennis-kunkel-microscopyscience-photo-library.jpg') no-repeat; */
+    background: url('pics/28-red-blood-cells-dennis-kunkel-microscopyscience-photo-library.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
 header {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     padding: 20px 100px;
-    background: red;
+    background: rgb(243, 5, 5);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -26,32 +39,72 @@ header {
 .logo {
 
     font-size: 2em;
-    color: #fff;
+    color: #fffffffa;
     user-select: none;
 }
 
 .navigation a {
     position: relative;
     font-size: 1.1em;
-    color: #fff;
+    color: #fffffffa;
     text-decoration: none;
     font-weight: 500;
     margin-left: 40px;
+}
+
+.navigation a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -6px;
+    width: 100%;
+    height: 3px;
+    background: #fffffffa;
+    border-radius: 5px;
+    transform-origin: right;
+    transform: scaleX(0);
+    transition: transform .5s;
+
+}
+
+.navigation a:hover::after {
+    transform-origin: left;
+    transform: scaleX(1);
 }
 
 .navigation .btnLogin-popup {
     width: 130px;
     height: 50px;
     background: transparent;
-    border: 2px solid #fff;
+    border: 2px solid #fffffffa;
     outline: none;
     border-radius: 6px;
     cursor: pointer;
     font-size: 1.1em;
-    color: #fff;
+    color: #fffffffa;
     font-weight: 500;
     margin-left: 40px;
 
 }
 
-.navigation .btnLogin-popup
+.navigation .btnLogin-popup {
+    width: 130px;
+    height: 50px;
+    background: transparent;
+    border: 2px solid #fffffffa;
+    outline: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1.1em;
+    color: #fffffffa;
+    font-weight: 500;
+    margin-left: 40px;
+    transition: .5s;
+    
+}
+
+.navigation .btnLogin-popup:hover {
+    background: #fffffffa;
+    color: #162938;
+
+}
