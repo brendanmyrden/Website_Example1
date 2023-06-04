@@ -14,8 +14,6 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    /* background: url('pics/red-background-water-droplets.jpg') no-repeat; */
-    /* background: url('pics/4-red-blood-cells-in-isotonic-solution-dennis-kunkel-microscopyscience-photo-library.jpg') no-repeat; */
     background: url('pics/28-red-blood-cells-dennis-kunkel-microscopyscience-photo-library.jpg') no-repeat;
     background-size: cover;
     background-position: center;
@@ -28,7 +26,7 @@ header {
     left: 0;
     width: 100%;
     padding: 20px 100px;
-    background: rgb(243, 5, 5);
+    /* background: rgb(243, 5, 5); */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -105,6 +103,6 @@ header {
 
 .navigation .btnLogin-popup:hover {
     background: #fffffffa;
-    color: #162938;
+    color: #9f45cd;
 
 }
