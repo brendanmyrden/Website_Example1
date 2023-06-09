@@ -15,7 +15,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background: url('pics/ai-generated-7813439.jpg') no-repeat;
-    background-size: cover;
+    background-size: 3200px 2000px;
     background-position: center;
 
 }
@@ -37,14 +37,14 @@ header {
 .logo {
 
     font-size: 2em;
-    color: #fffffffa;
+    color: #f9a216fa;
     user-select: none;
 }
 
 .navigation a {
     position: relative;
     font-size: 1.1em;
-    color: #fffffffa;
+    color: #f9a216fa;
     text-decoration: none;
     font-weight: 500;
     margin-left: 40px;
@@ -57,7 +57,7 @@ header {
     bottom: -6px;
     width: 100%;
     height: 3px;
-    background: #fffffffa;
+    background: #f9a216fa;
     border-radius: 5px;
     transform-origin: right;
     transform: scaleX(0);
@@ -74,7 +74,7 @@ header {
     width: 130px;
     height: 50px;
     background: transparent;
-    border: 2px solid #fffffffa;
+    border: 2px solid #f9a216fa;
     outline: none;
     border-radius: 6px;
     cursor: pointer;
@@ -89,12 +89,12 @@ header {
     width: 130px;
     height: 50px;
     background: transparent;
-    border: 2px solid #fffffffa;
+    border: 2px solid #f9a216fa;
     outline: none;
     border-radius: 6px;
     cursor: pointer;
     font-size: 1.1em;
-    color: #fffffffa;
+    color: #f9a216fa;
     font-weight: 500;
     margin-left: 40px;
     transition: .5s;
@@ -102,7 +102,7 @@ header {
 }
 
 .navigation .btnLogin-popup:hover {
-    background: #fffffffa;
+    background: #f9a216fa;
     color: #9f45cd;
 
 }
