@@ -15,7 +15,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background: url('pics/blood-6253191.jpg') no-repeat;
-    background-size: 2812px 3750px;
+    background-size: cover;
     background-position: center;
 
 }
