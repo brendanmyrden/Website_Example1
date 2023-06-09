@@ -14,7 +14,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('pics/blood-6253191.jpg') no-repeat;
+    background: url('pics/jesus-5703825.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 
@@ -26,7 +26,7 @@ header {
     left: 0;
     width: 100%;
     padding: 20px 100px;
-    /* background: rgb(243, 5, 5); */
+    /* background: rgb(63, 52, 34); */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -79,7 +79,7 @@ header {
     border-radius: 6px;
     cursor: pointer;
     font-size: 1.1em;
-    color: #fffffffa;
+    color: #902222fa;
     font-weight: 500;
     margin-left: 40px;
 
@@ -89,7 +89,7 @@ header {
     width: 130px;
     height: 50px;
     background: transparent;
-    border: 2px solid #fffffffa;
+    border: 2px solid #752121fa;
     outline: none;
     border-radius: 6px;
     cursor: pointer;

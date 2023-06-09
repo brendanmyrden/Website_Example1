@@ -1,3 +1,3 @@
 ## Example formed while watching, learning, and creating anew alongside the tutorial by CodeHal called 'How To Make A Website With Login And Register | HTML, CSS, & Javascript' on YT! 
 
-## Image used in 'main' branch is <a href="https://pixabay.com/users/김경복-15418216/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5741708">경복 김</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5741708">Pixabay</a>
+## Image used in 'purebloodimagery' is by <a href="https://pixabay.com/users/lbrownstone-9491386/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5703825">lbrownstone</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5703825">Pixabay</a>
