@@ -15,7 +15,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background: url('pics/28-red-blood-cells-dennis-kunkel-microscopyscience-photo-library.jpg') no-repeat;
-    background-size: cover;
+    background-size: cover; 
     background-position: center;
 
 }
