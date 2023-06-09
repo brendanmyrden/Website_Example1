@@ -1,3 +1,3 @@
 ## Example formed while watching, learning, and creating anew alongside the tutorial by CodeHal called 'How To Make A Website With Login And Register | HTML, CSS, & Javascript' on YT! 
 
-## Photo used is 'Red Blood Cells : a photograph by Dennis Kunkel Microscopy/science Photo Library which was uploaded on September 28th, 2018 to Pixels'
+## Image used in 'main' branch is <a href="https://pixabay.com/users/김경복-15418216/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5741708">경복 김</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5741708">Pixabay</a>
