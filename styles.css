@@ -221,3 +221,22 @@ header {
     font-weight: 500;
     
 }
+
+.login-register {
+    font-size: .9em;
+    color: #fffffffa;
+    text-align: center;
+    font-weight: 500;
+    margin: 25px 0 10px;
+
+}
+
+.login-register p a {
+    color: #cc1f1ffa;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.login-register p a:hover {
+    text-decoration: underline;
+}
