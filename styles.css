@@ -102,8 +102,8 @@ header {
 }
 
 .navigation .btnLogin-popup:hover {
-    background: #fffffffa;
-    color: #9f45cd;
+    background: #cc1f1ffa;
+    color: #ffffff;
 
 }
 
@@ -119,11 +119,40 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    /* overflow: hidden; */
 }
 
 .wrapper .form-box {
     width: 100%;
     padding: 40px;
+}
+
+.wrapper .form-box.login {
+    /* display: none; */
+}
+
+.wrapper .form-box.register {
+    position: absolute;
+    transform: translateX(400px);
+}
+
+.wrapper .icon-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 45px;
+    height: 45px;
+    background: transparent;
+    font-size: 2em;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    border-bottom-left-radius: 20px;
+    cursor: pointer;
+    z-index: 1;
+
 }
 
 .form-box h2 {
@@ -224,7 +253,7 @@ header {
 
 .login-register {
     font-size: .9em;
-    color: #fffffffa;
+    color: #cc1f1ffa;
     text-align: center;
     font-weight: 500;
     margin: 25px 0 10px;
@@ -232,7 +261,7 @@ header {
 }
 
 .login-register p a {
-    color: #cc1f1ffa;
+    color: #fffffffa;
     text-decoration: none;
     font-weight: 600;
 }
