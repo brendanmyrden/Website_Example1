@@ -13,7 +13,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 110vh;
     background: url('pics/jesus-5703825.jpg') no-repeat;
     background-size: cover;
     background-position: center;
